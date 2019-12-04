@@ -1,0 +1,17 @@
+{
+    "name": "yii/my-pake",
+    "authors": [
+        {
+            "name": "ktcl",
+            "email": "ktcl444@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "My\\Pake\\": "src/"
+        },
+    },
+}
