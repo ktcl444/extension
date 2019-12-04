@@ -11,6 +11,6 @@ class MyPake
 {
 	public function say()
 	{
-		return 'my first extension';
+		return 'my first extension test';
 	}
 }
